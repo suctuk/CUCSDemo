@@ -1,4 +1,4 @@
-![Page Visitors](https://komarev.com/ghpvc/?username=suctuk&repo=CUCSDemo&page=phishing-info)
+![Page Visitors](https://komarev.com/ghpvc/&repo=CUCSDemo&page=phishing-info)
 
 # 🎯 This was a phishing attempt from [Sena](https://github.com/suctuk)!
 
